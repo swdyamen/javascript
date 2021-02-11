@@ -1,5 +1,7 @@
-// swd.yamen@gmail.com
-// http://sunrise-it.se/javascript/memory/
+
+// This is memory card game.
+//you can mail me for any more information "swd.yamen@gmail.com"
+//Live Demo http://sunrise-it.se/javascript/slider/index.html
 
 
 document.querySelector(".control-buttons span").onclick = function() {
