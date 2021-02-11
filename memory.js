@@ -1,6 +1,6 @@
 
 // This is memory card game.
-//you can mail me for any more information "swd.yamen@gmail.com"
+//you can Email me for any more information "swd.yamen@gmail.com"
 //Live Demo http://sunrise-it.se/javascript/slider/index.html
 
 
