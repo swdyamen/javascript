@@ -1,5 +1,5 @@
 // this code create Slider using JS, you can change the image information to use any dynamic data.
-//you can mail me for any more information "swd.yamen@gmail.com"
+//you can Email me for any more information "swd.yamen@gmail.com"
 //Live Demo http://sunrise-it.se/javascript/slider/index.html
 
 // Slider Item
